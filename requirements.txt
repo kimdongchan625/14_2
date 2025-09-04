@@ -3,5 +3,6 @@ rank_bm25
 faiss-cpu
 sentence-transformers
 langchain-huggingface
+langchain-community
 langchain-openai
 langchain
